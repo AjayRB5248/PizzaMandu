@@ -9,7 +9,7 @@ const Product = () => {
     img: "/img/pizza.png",
     name: "BBG Chicken Pizza",
     price: [390, 548, 1050],
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis arcu purus, rhoncus fringilla vestibulum vel, dignissim vel ante. Nulla facilisi. Nullam a urna sit amet tellus pellentesque egestas in in ante.",
+    desc: "A topping of spicy barbecue sauce, diced chicken, cilantro, peppers, and onion all covered with cheese and baked to bubbly goodness!",
   };
 
   return (
